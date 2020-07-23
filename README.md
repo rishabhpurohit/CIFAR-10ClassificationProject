@@ -33,3 +33,13 @@ This dataset consists of 60,000 images divided into 10 target classes, with each
  * Truck
 
 CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
+
+## INFO
+
+model1_cifar_10epoch.h5 is the pretrained model file and must be loaded in GUI CIFAR10 Dataset.py for its working.
+
+Model_Training_+_exploration.ipynb is the jupyter notebook in which data exploration is done and model is trained.
+
+run python GUI CIFAR10 Dataset.py in a python develpoment environment with exact location of model1_cifar_10epoch.h5 and all the dependencies and we're good to go!
+
+
