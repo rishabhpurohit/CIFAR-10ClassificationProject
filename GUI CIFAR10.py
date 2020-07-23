@@ -7,7 +7,7 @@ import numpy
 
 #load the trained model to classify the images
 from keras.models import load_model
-model = load_model(r'C:\Users\Purohit\Desktop\cat vs non-cat\model1_cifar_10epoch.h5')
+model = load_model('model1_cifar_10epoch.h5')
 
 
 #dictionary to label all the CIFAR-10 dataset classes.
