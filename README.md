@@ -36,10 +36,10 @@ CIFAR-10 dataset is already available in the datasets module of Keras. We do not
 
 ## INFO
 
-model1_cifar_10epoch.h5 is the pretrained model file and must be loaded in GUI CIFAR10 Dataset.py for its working.
+**model1_cifar_10epoch.h5** is the pretrained model file and must be loaded in GUI CIFAR10 Dataset.py for its working.
 
-Model_Training_+_exploration.ipynb is the jupyter notebook in which data exploration is done and model is trained.
+**Model_Training_+_exploration.ipynb** is the jupyter notebook in which data exploration is done and model is trained.
 
-run python GUI CIFAR10 Dataset.py in a python develpoment environment with exact location of model1_cifar_10epoch.h5 and all the dependencies and we're good to go!
+run **python GUI CIFAR10 Dataset.py** in a python develpoment environment with exact location of **model1_cifar_10epoch.h5** and all the dependencies and we're good to go!
 
 
