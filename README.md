@@ -2,6 +2,11 @@
 
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/1.png)
 
+![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/2.png)
+
+![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/3.png)
+
+
 
 
 Image classification is a fascinating deep learning project. 
