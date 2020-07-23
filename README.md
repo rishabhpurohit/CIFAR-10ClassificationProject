@@ -12,3 +12,24 @@ tkinter is required for GUI creation and launching the application:-
 
 #### !conda install -c anaconda tk
 
+
+## Dataset
+
+About Image Classification Dataset
+
+CIFAR-10 is a very popular computer vision dataset. This dataset is well studied in many types of deep learning research for object recognition.
+
+This dataset consists of 60,000 images divided into 10 target classes, with each category containing 6000 images of shape 32*32. This dataset contains images of low resolution (32*32), which allows researchers to try new algorithms. The 10 different classes of this dataset are:
+
+ * Airplane
+ * Car
+ * Bird
+ * Cat
+ * Deer
+ * Dog
+ * Frog
+ * Horse
+ * Ship
+ * Truck
+
+CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
