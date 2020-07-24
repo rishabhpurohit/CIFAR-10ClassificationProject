@@ -1,7 +1,6 @@
-# 
-Image-ClassificationProject 
+# Image-ClassificationProject 
 
-initial stage of gui 
+initial stage of gui window
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/1.png)
 
 after uploading an image
