@@ -1,9 +1,13 @@
-# CIFAR-10ClassificationProject
+# 
+Image-ClassificationProject 
 
+initial stage of gui 
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/1.png)
 
+after uploading an image
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/2.png)
 
+class comes on top after clicking the button
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/3.png)
 
 
