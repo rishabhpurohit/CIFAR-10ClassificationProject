@@ -1,30 +1,29 @@
 # CIFAR-10ClassificationProject
 
-![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/1.png)
+![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/1.png)
 
-![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/2.png)
+![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/2.png)
 
-![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/images%20for%20md/3.png)
-
-
+![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/3.png)
 
 
-Image classification is a fascinating deep learning project. 
 
-In this project, I built a convolution neural network on a CIFAR-10 dataset. 
 
-First, I did some exploration in our dataset, and then trained my neural network using python and keras.
+Image classification is a amazing deep learning project that I've worked on. 
+
+- In this project, We build a convolution neural network on a CIFAR-10 dataset. 
+
+- To begin with, we did some exploration in our dataset, and then trained our deep neural network using python and keras.
+
+- Finally we built a GUI in which images can be uploaded to and can be used for prediction.
+
 
 ### Important Dependencies
 
-tkinter is required for GUI creation and launching the application:-
+**tkinter** is required for GUI creation and launching the application -
+`!conda install -c anaconda tk`
 
-#### !conda install -c anaconda tk
-
-
-## Dataset
-
-About Image Classification Dataset
+## About the Dataset
 
 CIFAR-10 is a very popular computer vision dataset. This dataset is well studied in many types of deep learning research for object recognition.
 
@@ -43,12 +42,15 @@ This dataset consists of 60,000 images divided into 10 target classes, with each
 
 CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
 
-## INFO
+## Starting Project
 
-**model1_cifar_10epoch.h5** is the pretrained model file and must be loaded in GUI CIFAR10 Dataset.py for its working.
+* The pretrained model must be loaded in GUI CIFAR10 Dataset.py for its working.
+  *  `model_2o3.h5`
+  
 
-**Model_Training_+_exploration.ipynb** is the jupyter notebook in which data exploration is done and model is trained.
+* run `main_run.py` in a python environment with `model_2o3.h5` and all the dependencies setup. 
+  
 
-run **python GUI CIFAR10 Dataset.py** in a python develpoment environment with exact location of **model1_cifar_10epoch.h5** and all the dependencies and we're good to go!
+That's all folks! We're good to go!
 
 
