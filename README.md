@@ -1,12 +1,12 @@
-# CIFAR-10ClassificationProject
+# Image-ClassificationProject 
+
 
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/1.png)
 
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/2.png)
 
 ![](https://github.com/rishabhpurohit/CIFAR-10ClassificationProject/blob/master/img/3.png)
-
-
+=======
 
 
 Image classification is a amazing deep learning project that I've worked on. 
